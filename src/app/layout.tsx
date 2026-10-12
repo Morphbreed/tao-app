@@ -1,6 +1,4 @@
 import type { Metadata, Viewport } from "next";
-import ServiceWorkerStatus from "@/components/ServiceWorkerStatus";
-import ServiceWorkerRegistration from "@/components/ServiceWorkerRegistration";
 import ThemeColor from "@/components/ThemeColor";
 import ThemeToggle from "@/components/ThemeToggle";
 import "./globals.css";
@@ -121,8 +119,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </footer>
 
         <ThemeColor />
-        <ServiceWorkerRegistration />
-        <ServiceWorkerStatus />
       </body>
     </html>
   );

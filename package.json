@@ -4,12 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && node scripts/build-precache.mjs",
+    "build": "next build",
     "start": "next start",
     "lint": "eslint",
     "content": "node scripts/extract-daodejing.mjs",
     "serve": "npx --yes serve out",
-    "precache": "node scripts/build-precache.mjs",
     "stories": "node scripts/extract-dschuangdsi.mjs",
     "deploy": "./scripts/deploy.sh"
   },
