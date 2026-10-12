@@ -1,0 +1,83 @@
+1:"$Sreact.fragment"
+2:Td65,<p>Baduanjin, „die acht Stücke Brokat", ist die wohl bekannteste Qigong-Reihe überhaupt.
+Sie ist mindestens achthundert Jahre alt, in unzähligen Varianten überliefert und lässt
+sich fast überall üben — man braucht zwei Quadratmeter und keine Ausrüstung.</p>
+<p>Der Name spielt darauf an, dass die acht Bewegungen wie kostbare Stoffbahnen
+zusammengehören: jede für sich schön, gemeinsam ein Ganzes.</p>
+<h2>Grundprinzipien</h2>
+<p>Wichtiger als die exakte Form sind vier Dinge, die für alle acht Bewegungen gelten:</p>
+<ul>
+<li><strong>Langsam.</strong> Jede Bewegung dauert länger, als es sich richtig anfühlt.</li>
+<li><strong>Mit dem Atem verbunden.</strong> Öffnen und Heben beim Einatmen, Schließen und Senken
+beim Ausatmen.</li>
+<li><strong>Ohne Endanschlag.</strong> Gelenke werden nie ganz durchgestreckt.</li>
+<li><strong>Wiederholt.</strong> Jede Bewegung sechs bis achtmal, bei asymmetrischen Formen je Seite.</li>
+</ul>
+<h2>Die acht Bewegungen</h2>
+<ol>
+<li><strong>Den Himmel stützen.</strong> Hände vor dem Bauch verschränken, beim Einatmen über den Kopf
+heben und die Handflächen nach oben drehen. Beim Ausatmen seitlich senken. Dehnt die
+gesamte Vorderseite.</li>
+<li><strong>Den Bogen spannen.</strong> Leichter Reitsitz, ein Arm schiebt zur Seite, der andere zieht
+wie eine Bogensehne zurück. Der Blick folgt der schiebenden Hand. Öffnet den Brustraum.</li>
+<li><strong>Einen Arm heben.</strong> Eine Hand drückt nach oben, die andere nach unten. Seitenwechsel.
+Arbeitet auf den seitlichen Rumpf.</li>
+<li><strong>Nach hinten blicken.</strong> Im Stand den Oberkörper langsam drehen und über die Schulter
+zurückschauen, ohne die Hüfte mitzunehmen. Löst die Halswirbelsäule.</li>
+<li><strong>Kopf und Rumpf senken.</strong> Aus dem Reitsitz den Oberkörper zur Seite und nach vorn
+neigen, Kopf ruhig lassen. Wirkt auf den unteren Rücken.</li>
+<li><strong>Mit den Händen die Füße fassen.</strong> Aufrecht stehen, mit geradem Rücken nach vorn
+beugen, Richtung Fußspitzen greifen — nur so weit, wie es ohne Ziehen geht. Aufrichten
+Wirbel für Wirbel.</li>
+<li><strong>Fäuste stoßen.</strong> Aus dem Reitsitz abwechselnd eine Faust langsam nach vorn schieben,
+Blick entschlossen nach vorn. Die einzige Bewegung mit etwas Kraft darin.</li>
+<li><strong>Auf den Fersen wippen.</strong> Aufrecht stehen, auf die Zehenballen heben, kurz halten,
+dann die Fersen sanft auf den Boden fallen lassen. Sieben Wiederholungen zum Abschluss.</li>
+</ol>
+<h2>Typische Stolpersteine</h2>
+<ul>
+<li><strong>Zu schnell.</strong> Der häufigste Fehler mit Abstand. Wenn du außer Atem kommst, ist es zu schnell.</li>
+<li><strong>Zu tiefer Reitsitz.</strong> Die Knie sollen nie über die Zehenspitzen hinausragen.</li>
+<li><strong>Über die Dehngrenze gehen.</strong> Besonders bei Nummer 6. Der Rücken bleibt lang, statt
+sich rundzumachen.</li>
+</ul>
+<h2>Bezug zum Daodejing</h2>
+<p><a href="/tao-app/daodejing/43/" class="chapter-link">Kapitel 43</a> sagt, das Weichste der Welt überwinde das Härteste. Genau darauf beruht diese
+Reihe — nicht auf Kraft, sondern auf ruhiger Wiederholung. <a href="/tao-app/daodejing/22/" class="chapter-link">Kapitel 22</a> ergänzt das Bild:
+was sich beugt, bleibt heil.</p>
+<hr>
+<p><em>Hinweis: Diese Beschreibungen sind eine Lesehilfe, kein Ersatz für Anleitung. Bei
+Beschwerden an Knie, Rücken oder Kreislauf vorher ärztlich abklären.</em></p>
+8:X
+d:X
+d:C
+0:{"buildId":"GhfDTwTLj84dCYq-VKD8-","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"section-module__zQf7-W__article","children":[["$","header",null,{"className":"section-module__zQf7-W__articleHeader","children":[["$","a",null,{"href":"/tao-app/meditation/","className":"section-module__zQf7-W__backLink","children":"Meditation"}],["$","h1",null,{"className":"section-module__zQf7-W__articleTitle","children":"Baduanjin — Die Acht Brokate"}],["$","p",null,{"className":"section-module__zQf7-W__articleSummary","children":"Acht ruhige Bewegungsfolgen, die den Körper öffnen, ohne ihn zu ermüden."}],["$","p",null,{"className":"section-module__zQf7-W__meta","children":["15–20 Minuten",["$","span",null,{"aria-hidden":"true","children":" · "}],"Für den Einstieg geeignet"]}]]}],["$","div",null,{"className":"ArticleBody-module__tTbnDG__prose","dangerouslySetInnerHTML":{"__html":"$2"}}],false,"$L3"]}],["$L4","$L5"],"$L6"]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$8","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$8","varyParams":"$d"},{"rsc":"$Le","isPartial":"$@f","staleTime":"$8","varyParams":"$d"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$8","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+14:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"ViewportBoundary"]
+18:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"MetadataBoundary"]
+19:I[27201,["/tao-app/_next/static/chunks/35repbuab1010.js"],"IconMark"]
+1a:I[39756,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+1b:I[37457,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+1c:I[22530,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+1d:I[47079,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+:HL["/tao-app/_next/static/chunks/21t2l-g7f--hr.css","style"]
+:HL["/tao-app/_next/static/chunks/1jy68zrb1-1t_.css","style"]
+3:["$","section",null,{"className":"ChapterReferences-module__JoKOdq__block","aria-labelledby":"chapter-refs-heading","children":[["$","h2",null,{"id":"chapter-refs-heading","className":"ChapterReferences-module__JoKOdq__heading","children":"Zugehörige Kapitel"}],["$","ul",null,{"className":"ChapterReferences-module__JoKOdq__list","children":[["$","li","22",{"children":["$","a",null,{"href":"/tao-app/daodejing/22/","className":"ChapterReferences-module__JoKOdq__item","children":[["$","span",null,{"className":"ChapterReferences-module__JoKOdq__number","children":22}],["$","span",null,{"className":"ChapterReferences-module__JoKOdq__line","children":"Was halb ist, wird ganz werden."}]]}]}],["$","li","43",{"children":["$","a",null,{"href":"/tao-app/daodejing/43/","className":"ChapterReferences-module__JoKOdq__item","children":[["$","span",null,{"className":"ChapterReferences-module__JoKOdq__number","children":43}],["$","span",null,{"className":"ChapterReferences-module__JoKOdq__line","children":"Das Allerweichste auf Erden"}]]}]}]]}]]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/tao-app/_next/static/chunks/21t2l-g7f--hr.css","precedence":"next"}]
+5:["$","script","script-0",{"src":"/tao-app/_next/static/chunks/0dno5x-2ulll7.js","async":true}]
+6:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+9:["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Baduanjin — Die Acht Brokate · Tao"}],["$","meta","1",{"name":"description","content":"Acht ruhige Bewegungsfolgen, die den Körper öffnen, ohne ihn zu ermüden."}],["$","meta","2",{"name":"application-name","content":"Tao"}],["$","link","3",{"rel":"manifest","href":"/tao-app/manifest.webmanifest"}],["$","meta","4",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"apple-mobile-web-app-title","content":"Tao"}],["$","meta","6",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","7",{"rel":"icon","href":"/tao-app/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","8",{}]]}]}]}],null]}]
+b:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+e:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+10:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/tao-app/_next/static/chunks/1jy68zrb1-1t_.css","precedence":"next"}],["$","script","script-0",{"src":"/tao-app/_next/static/chunks/35repbuab1010.js","async":true}]],["$","html",null,{"lang":"de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n(function () {\n  try {\n    var stored = localStorage.getItem('tao-theme');\n    var dark = stored === 'dark' ||\n      (stored !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches);\n\n    if (stored === 'dark' || stored === 'light') {\n      document.documentElement.dataset.theme = stored;\n    }\n\n    var meta = document.createElement('meta');\n    meta.name = 'theme-color';\n    meta.content = dark ? '#161614' : '#f7f4ee';\n    document.head.appendChild(meta);\n  } catch (e) {}\n})();\n"}}]}],["$","body",null,{"children":[["$","a",null,{"href":"#content","className":"layout-module__L5FxyW__skipLink","children":"Zum Inhalt springen"}],["$","header",null,{"className":"layout-module__L5FxyW__header","children":["$","div",null,{"className":"layout-module__L5FxyW__headerInner","children":[["$","a",null,{"href":"/tao-app/","className":"layout-module__L5FxyW__brand","children":[["$","span",null,{"className":"layout-module__L5FxyW__brandMark","aria-hidden":"true","children":"道"}],["$","span",null,{"className":"layout-module__L5FxyW__brandText","children":"Tao"}]]}],["$","nav",null,{"className":"layout-module__L5FxyW__nav","aria-label":"Hauptbereiche","children":[["$","a","/daodejing",{"href":"/tao-app/daodejing/","className":"layout-module__L5FxyW__navLink","children":"Daodejing"}],["$","a","/meditation",{"href":"/tao-app/meditation/","className":"layout-module__L5FxyW__navLink","children":"Meditation"}],["$","a","/geschichten",{"href":"/tao-app/geschichten/","className":"layout-module__L5FxyW__navLink","children":"Geschichten"}],["$","a","/alltag",{"href":"/tao-app/alltag/","className":"layout-module__L5FxyW__navLink","children":"Alltag"}]]}],["$","$L1c",null,{}]]}]}],["$","main",null,{"id":"content","className":"layout-module__L5FxyW__content","children":["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}],"notFound":[["$","div",null,{"style":{"maxWidth":"34rem"},"children":[["$","h1",null,{"style":{"fontSize":"1.875rem","marginBottom":"1rem"},"children":"Nichts gefunden"}],["$","p",null,{"style":{"color":"var(--ink-muted)"},"children":["Diese Seite gibt es nicht. Vielleicht hilft der Weg zurück zum"," ",["$","a",null,{"href":"/tao-app/daodejing/","children":"Daodejing"}]," oder zur"," ",["$","a",null,{"href":"/tao-app/","children":"Startseite"}],"."]}]]}],[]]}]}],["$","footer",null,{"className":"layout-module__L5FxyW__footer","children":["$","div",null,{"className":"layout-module__L5FxyW__footerInner","children":[["$","p",null,{"className":"layout-module__L5FxyW__footerText","children":"Daodejing in der Übersetzung von Richard Wilhelm (1910) — gemeinfrei."}],["$","a",null,{"href":"/tao-app/ueber/","className":"layout-module__L5FxyW__footerLink","children":"Über diese App"}]]}]}],["$","$L1d",null,{}]]}]]}]]}]
+16:null
+13:true
+8:300
+8:C
+12:0
+a:"$undefined"
+c:"$undefined"
+f:"$undefined"
+11:"$undefined"
+7:"$undefined"

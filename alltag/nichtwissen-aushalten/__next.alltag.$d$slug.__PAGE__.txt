@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+2:T7b1,<p><a href="/tao-app/daodejing/71/" class="chapter-link">Kapitel 71</a> ist kurz und scharf: Zu wissen, dass man nicht weiß, ist das Höchste. Nicht
+zu wissen und zu meinen, man wisse, ist ein Leiden.</p>
+<p>Das ist kein Lob der Ahnungslosigkeit. Es geht um den Unterschied zwischen einer offenen
+und einer geschlossenen Frage — und darum, dass die meisten Fehlentscheidungen nicht aus
+Unwissen entstehen, sondern aus vorschnell geschlossenen Fragen.</p>
+<h2>Worum es geht</h2>
+<p>Es gibt einen Moment, in dem ein Thema von „unklar" auf „klar" umspringt. Dieser Moment
+kommt bei den meisten Menschen deutlich zu früh, weil Unklarheit unangenehm ist. Danach
+wird nur noch bestätigt statt geprüft.</p>
+<p><a href="/tao-app/daodejing/20/" class="chapter-link">Kapitel 20</a> beschreibt die Gegenposition mit ungewöhnlicher Offenheit — als ein Zustand,
+in dem der Sprechende sich unbestimmt und ungeschickt vorkommt, während alle anderen
+Bescheid zu wissen scheinen. Das ist bemerkenswert ehrlich für einen Text, der Weisheit
+zum Thema hat.</p>
+<h2>Eine Übung für diese Woche</h2>
+<p><strong>Der Satz „Ich weiß es nicht."</strong> Sag ihn diese Woche mindestens dreimal laut, wo du ihn
+sonst vermieden hättest — im Meeting, im Gespräch, gegenüber Kindern.</p>
+<p>Zusatz für Schreibende: Führe eine Liste mit drei Spalten.</p>
+<p>| Behauptung | Woher weiß ich das? | Sicherheit |
+|---|---|---|
+| … | Selbst geprüft / gehört / angenommen | hoch / mittel / geraten |</p>
+<p>Trag eine Woche lang alles ein, was du in Diskussionen als Tatsache vertrittst. Die
+Spalte „geraten" wird länger, als dir lieb ist — und genau das ist der Ertrag.</p>
+<h2>Zum Nachdenken</h2>
+<ul>
+<li>Bei welcher deiner festen Überzeugungen hast du die Grundlage nie selbst geprüft?</li>
+<li>Wann hast du zuletzt öffentlich die Meinung geändert?</li>
+<li>Was kostet es dich, in deinem Umfeld Unsicherheit zuzugeben — und stimmt diese Einschätzung?</li>
+</ul>
+6:X
+b:X
+b:C
+0:{"buildId":"GhfDTwTLj84dCYq-VKD8-","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"section-module__zQf7-W__article","children":[["$","header",null,{"className":"section-module__zQf7-W__articleHeader","children":[["$","a",null,{"href":"/tao-app/alltag/","className":"section-module__zQf7-W__backLink","children":"Im Alltag"}],["$","h1",null,{"className":"section-module__zQf7-W__articleTitle","children":"Nichtwissen aushalten"}],["$","p",null,{"className":"section-module__zQf7-W__articleSummary","children":"Zu wissen, dass man nicht weiß, ist das Höchste."}]]}],["$","div",null,{"className":"ArticleBody-module__tTbnDG__prose","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"ChapterReferences-module__JoKOdq__block","aria-labelledby":"chapter-refs-heading","children":[["$","h2",null,{"id":"chapter-refs-heading","className":"ChapterReferences-module__JoKOdq__heading","children":"Zugehörige Kapitel"}],["$","ul",null,{"className":"ChapterReferences-module__JoKOdq__list","children":[["$","li","71",{"children":["$","a",null,{"href":"/tao-app/daodejing/71/","className":"ChapterReferences-module__JoKOdq__item","children":[["$","span",null,{"className":"ChapterReferences-module__JoKOdq__number","children":71}],["$","span",null,{"className":"ChapterReferences-module__JoKOdq__line","children":"Die Nichtwissenheit wissen"}]]}]}],["$","li","20",{"children":["$","a",null,{"href":"/tao-app/daodejing/20/","className":"ChapterReferences-module__JoKOdq__item","children":[["$","span",null,{"className":"ChapterReferences-module__JoKOdq__number","children":20}],["$","span",null,{"className":"ChapterReferences-module__JoKOdq__line","children":"Zwischen »Gewiß« und »Jawohl«:"}]]}]}]]}]]}]]}],["$L3"],"$L4"]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":"$L7","isPartial":"$@8","staleTime":"$6","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$6","varyParams":"$b"},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$6","varyParams":"$b"},{"rsc":"$Le","isPartial":"$@f","staleTime":"$6","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+12:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"ViewportBoundary"]
+16:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"MetadataBoundary"]
+17:I[27201,["/tao-app/_next/static/chunks/35repbuab1010.js"],"IconMark"]
+18:I[39756,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+19:I[37457,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+1a:I[22530,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+1b:I[47079,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+:HL["/tao-app/_next/static/chunks/21t2l-g7f--hr.css","style"]
+:HL["/tao-app/_next/static/chunks/1jy68zrb1-1t_.css","style"]
+3:["$","link","0",{"rel":"stylesheet","href":"/tao-app/_next/static/chunks/21t2l-g7f--hr.css","precedence":"next"}]
+4:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+7:["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Nichtwissen aushalten · Tao"}],["$","meta","1",{"name":"description","content":"Zu wissen, dass man nicht weiß, ist das Höchste."}],["$","meta","2",{"name":"application-name","content":"Tao"}],["$","link","3",{"rel":"manifest","href":"/tao-app/manifest.webmanifest"}],["$","meta","4",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"apple-mobile-web-app-title","content":"Tao"}],["$","meta","6",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","7",{"rel":"icon","href":"/tao-app/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","8",{}]]}]}]}],null]}]
+9:["$","$1","c",{"children":[null,["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}]}]]}]
+c:["$","$1","c",{"children":[null,["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}]}]]}]
+e:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/tao-app/_next/static/chunks/1jy68zrb1-1t_.css","precedence":"next"}],["$","script","script-0",{"src":"/tao-app/_next/static/chunks/35repbuab1010.js","async":true}]],["$","html",null,{"lang":"de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n(function () {\n  try {\n    var stored = localStorage.getItem('tao-theme');\n    var dark = stored === 'dark' ||\n      (stored !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches);\n\n    if (stored === 'dark' || stored === 'light') {\n      document.documentElement.dataset.theme = stored;\n    }\n\n    var meta = document.createElement('meta');\n    meta.name = 'theme-color';\n    meta.content = dark ? '#161614' : '#f7f4ee';\n    document.head.appendChild(meta);\n  } catch (e) {}\n})();\n"}}]}],["$","body",null,{"children":[["$","a",null,{"href":"#content","className":"layout-module__L5FxyW__skipLink","children":"Zum Inhalt springen"}],["$","header",null,{"className":"layout-module__L5FxyW__header","children":["$","div",null,{"className":"layout-module__L5FxyW__headerInner","children":[["$","a",null,{"href":"/tao-app/","className":"layout-module__L5FxyW__brand","children":[["$","span",null,{"className":"layout-module__L5FxyW__brandMark","aria-hidden":"true","children":"道"}],["$","span",null,{"className":"layout-module__L5FxyW__brandText","children":"Tao"}]]}],["$","nav",null,{"className":"layout-module__L5FxyW__nav","aria-label":"Hauptbereiche","children":[["$","a","/daodejing",{"href":"/tao-app/daodejing/","className":"layout-module__L5FxyW__navLink","children":"Daodejing"}],["$","a","/meditation",{"href":"/tao-app/meditation/","className":"layout-module__L5FxyW__navLink","children":"Meditation"}],["$","a","/geschichten",{"href":"/tao-app/geschichten/","className":"layout-module__L5FxyW__navLink","children":"Geschichten"}],["$","a","/alltag",{"href":"/tao-app/alltag/","className":"layout-module__L5FxyW__navLink","children":"Alltag"}]]}],["$","$L1a",null,{}]]}]}],["$","main",null,{"id":"content","className":"layout-module__L5FxyW__content","children":["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}],"notFound":[["$","div",null,{"style":{"maxWidth":"34rem"},"children":[["$","h1",null,{"style":{"fontSize":"1.875rem","marginBottom":"1rem"},"children":"Nichts gefunden"}],["$","p",null,{"style":{"color":"var(--ink-muted)"},"children":["Diese Seite gibt es nicht. Vielleicht hilft der Weg zurück zum"," ",["$","a",null,{"href":"/tao-app/daodejing/","children":"Daodejing"}]," oder zur"," ",["$","a",null,{"href":"/tao-app/","children":"Startseite"}],"."]}]]}],[]]}]}],["$","footer",null,{"className":"layout-module__L5FxyW__footer","children":["$","div",null,{"className":"layout-module__L5FxyW__footerInner","children":[["$","p",null,{"className":"layout-module__L5FxyW__footerText","children":"Daodejing in der Übersetzung von Richard Wilhelm (1910) — gemeinfrei."}],["$","a",null,{"href":"/tao-app/ueber/","className":"layout-module__L5FxyW__footerLink","children":"Über diese App"}]]}]}],["$","$L1b",null,{}]]}]]}]]}]
+14:null
+11:true
+6:300
+6:C
+10:0
+8:"$undefined"
+a:"$undefined"
+d:"$undefined"
+f:"$undefined"
+5:"$undefined"

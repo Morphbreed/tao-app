@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Tao">
+  <rect width="512" height="512" fill="#f7f4ee"/>
+  <g fill="none" stroke="#2a2725" stroke-linecap="round">
+    <!-- Offener Kreis: der Anfang ist dick, das Ende laeuft duenn aus. -->
+    <path d="M 330 142
+             A 150 150 0 1 0 366 232"
+          stroke-width="30"/>
+    <path d="M 366 232
+             A 150 150 0 0 0 330 142"
+          stroke-width="9" opacity="0.5"/>
+  </g>
+</svg>

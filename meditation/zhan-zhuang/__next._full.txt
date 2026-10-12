@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[22530,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+3:I[39756,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+4:I[37457,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+5:I[47079,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+7:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+e:I[68027,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default",1]
+:HL["/tao-app/_next/static/chunks/1jy68zrb1-1t_.css","style"]
+:HL["/tao-app/_next/static/chunks/21t2l-g7f--hr.css","style"]
+a:X
+0:{"P":null,"c":["","meditation","zhan-zhuang",""],"q":"","i":false,"f":[[["",{"children":["meditation",{"children":[["slug","zhan-zhuang","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/tao-app/_next/static/chunks/1jy68zrb1-1t_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/tao-app/_next/static/chunks/35repbuab1010.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n(function () {\n  try {\n    var stored = localStorage.getItem('tao-theme');\n    var dark = stored === 'dark' ||\n      (stored !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches);\n\n    if (stored === 'dark' || stored === 'light') {\n      document.documentElement.dataset.theme = stored;\n    }\n\n    var meta = document.createElement('meta');\n    meta.name = 'theme-color';\n    meta.content = dark ? '#161614' : '#f7f4ee';\n    document.head.appendChild(meta);\n  } catch (e) {}\n})();\n"}}]}],["$","body",null,{"children":[["$","a",null,{"href":"#content","className":"layout-module__L5FxyW__skipLink","children":"Zum Inhalt springen"}],["$","header",null,{"className":"layout-module__L5FxyW__header","children":["$","div",null,{"className":"layout-module__L5FxyW__headerInner","children":[["$","a",null,{"href":"/tao-app/","className":"layout-module__L5FxyW__brand","children":[["$","span",null,{"className":"layout-module__L5FxyW__brandMark","aria-hidden":"true","children":"道"}],["$","span",null,{"className":"layout-module__L5FxyW__brandText","children":"Tao"}]]}],["$","nav",null,{"className":"layout-module__L5FxyW__nav","aria-label":"Hauptbereiche","children":[["$","a","/daodejing",{"href":"/tao-app/daodejing/","className":"layout-module__L5FxyW__navLink","children":"Daodejing"}],["$","a","/meditation",{"href":"/tao-app/meditation/","className":"layout-module__L5FxyW__navLink","children":"Meditation"}],["$","a","/geschichten",{"href":"/tao-app/geschichten/","className":"layout-module__L5FxyW__navLink","children":"Geschichten"}],["$","a","/alltag",{"href":"/tao-app/alltag/","className":"layout-module__L5FxyW__navLink","children":"Alltag"}]]}],["$","$L2",null,{}]]}]}],["$","main",null,{"id":"content","className":"layout-module__L5FxyW__content","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"style":{"maxWidth":"34rem"},"children":[["$","h1",null,{"style":{"fontSize":"1.875rem","marginBottom":"1rem"},"children":"Nichts gefunden"}],["$","p",null,{"style":{"color":"var(--ink-muted)"},"children":["Diese Seite gibt es nicht. Vielleicht hilft der Weg zurück zum"," ",["$","a",null,{"href":"/tao-app/daodejing/","children":"Daodejing"}]," oder zur"," ",["$","a",null,{"href":"/tao-app/","children":"Startseite"}],"."]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"layout-module__L5FxyW__footer","children":["$","div",null,{"className":"layout-module__L5FxyW__footerInner","children":[["$","p",null,{"className":"layout-module__L5FxyW__footerText","children":"Daodejing in der Übersetzung von Richard Wilhelm (1910) — gemeinfrei."}],["$","a",null,{"href":"/tao-app/ueber/","className":"layout-module__L5FxyW__footerLink","children":"Über diese App"}]]}]}],["$","$L5",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/tao-app/_next/static/chunks/21t2l-g7f--hr.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/tao-app/_next/static/chunks/0dno5x-2ulll7.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null],["$","$1","h",{"children":["$Lb","$Lc","$Ld",null]}],false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"GhfDTwTLj84dCYq-VKD8-"}
+10:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"ViewportBoundary"]
+12:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"MetadataBoundary"]
+a:C
+b:null
+c:["$","$L10",null,{"children":"$L11"}]
+d:["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$L13"}]}]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/tao-app/_next/static/chunks/1jy68zrb1-1t_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:Ta7e,<p>Zhan Zhuang heißt „stehen wie ein Pfahl" und ist die Grundübung der inneren Kampfkünste —
+Taijiquan, Xingyiquan, Yiquan bauen alle darauf auf. Von außen sieht sie nach nichts aus:
+jemand steht da. Von innen ist sie eine der ehrlichsten Übungen überhaupt, weil sie
+unnachgiebig zeigt, wo man mehr Kraft aufwendet als nötig.</p>
+<p>Anders als beim Sitzen kannst du hier nicht wegdriften. Der Körper meldet sich.</p>
+<h2>Haltung</h2>
+<p>Stell dich hüftbreit hin, die Fußspitzen parallel nach vorn. Die Knie sind minimal
+gebeugt — so wenig, dass man es von außen kaum sieht. Das Becken kippt leicht nach
+unten, das Steißbein hängt. Der Kopf ist so aufgerichtet, als würde er von oben an einem
+Faden gehalten; das Kinn kommt dabei ein wenig zurück.</p>
+<p>Die Arme hebst du vor den Bauch, als würdest du einen großen, sehr leichten Ball halten.
+Die Finger sind gespreizt, aber nicht gestreckt. Die Achseln bleiben offen, als läge dort
+jeweils ein Ei, das du nicht zerdrücken willst.</p>
+<h2>Ablauf</h2>
+<ol>
+<li><strong>Einrichten (1 Minute).</strong> Von unten nach oben durchgehen: Füße, Knie, Becken,
+Rücken, Schultern, Kopf.</li>
+<li><strong>Fünf Minuten stehen.</strong> Länger nicht, am Anfang. Atme ruhig in den Bauch.</li>
+<li><strong>Überflüssige Spannung suchen.</strong> Wandere im Geist durch den Körper. Wo hältst du
+etwas, das du nicht halten musst? Lass es los, ohne die Haltung aufzugeben.</li>
+<li><strong>Das Zittern zulassen.</strong> Nach einigen Minuten beginnen Beine oder Arme zu vibrieren.
+Das ist normal und kein Grund abzubrechen.</li>
+<li><strong>Auflösen.</strong> Arme langsam sinken lassen, ein paar Schritte gehen, nachspüren.</li>
+</ol>
+<p>Steigere die Dauer über Wochen, nicht über Tage: 5 Minuten, dann 8, dann 12. Zwanzig
+Minuten sind für die meisten ein sehr gutes Maß.</p>
+<h2>Typische Stolpersteine</h2>
+<ul>
+<li><strong>Zu tief stehen.</strong> Die Kniebeuge ist keine Kniebeuge. Wer zu tief geht, ermüdet
+muskulär und lernt nichts über Entspannung.</li>
+<li><strong>Schultern hochziehen.</strong> Der häufigste Fehler. Kontrolliere sie alle paar Minuten.</li>
+<li><strong>Den Atem anhalten.</strong> Passiert oft unbemerkt, gerade wenn es anstrengend wird.</li>
+</ul>
+<h2>Bezug zum Daodejing</h2>
+<p><a href="/tao-app/daodejing/76/" class="chapter-link">Kapitel 76</a> stellt das Weiche und Biegsame auf die Seite des Lebendigen, das Harte und
+Starre auf die des Toten. Zhan Zhuang übt genau diesen Unterschied körperlich: aufrecht
+stehen, ohne steif zu werden. <a href="/tao-app/daodejing/22/" class="chapter-link">Kapitel 22</a> fügt hinzu, warum sich das lohnt — was sich
+beugt, bleibt ganz.</p>
+6:["$","article",null,{"className":"section-module__zQf7-W__article","children":[["$","header",null,{"className":"section-module__zQf7-W__articleHeader","children":[["$","a",null,{"href":"/tao-app/meditation/","className":"section-module__zQf7-W__backLink","children":"Meditation"}],["$","h1",null,{"className":"section-module__zQf7-W__articleTitle","children":"Zhan Zhuang — Stehen wie ein Pfahl"}],["$","p",null,{"className":"section-module__zQf7-W__articleSummary","children":"Reglos stehen und dabei aufmerksam bleiben. Kräftigt Körper und Geduld gleichzeitig."}],["$","p",null,{"className":"section-module__zQf7-W__meta","children":["5–20 Minuten",["$","span",null,{"aria-hidden":"true","children":" · "}],"Für den Einstieg geeignet"]}]]}],["$","div",null,{"className":"ArticleBody-module__tTbnDG__prose","dangerouslySetInnerHTML":{"__html":"$14"}}],"$L15","$L16"]}]
+17:I[46377,["/tao-app/_next/static/chunks/35repbuab1010.js","/tao-app/_next/static/chunks/0dno5x-2ulll7.js"],"default"]
+15:["$","$L17",null,{"minutes":[5,20]}]
+16:["$","section",null,{"className":"ChapterReferences-module__JoKOdq__block","aria-labelledby":"chapter-refs-heading","children":[["$","h2",null,{"id":"chapter-refs-heading","className":"ChapterReferences-module__JoKOdq__heading","children":"Zugehörige Kapitel"}],["$","ul",null,{"className":"ChapterReferences-module__JoKOdq__list","children":[["$","li","22",{"children":["$","a",null,{"href":"/tao-app/daodejing/22/","className":"ChapterReferences-module__JoKOdq__item","children":[["$","span",null,{"className":"ChapterReferences-module__JoKOdq__number","children":22}],["$","span",null,{"className":"ChapterReferences-module__JoKOdq__line","children":"Was halb ist, wird ganz werden."}]]}]}],["$","li","76",{"children":["$","a",null,{"href":"/tao-app/daodejing/76/","className":"ChapterReferences-module__JoKOdq__item","children":[["$","span",null,{"className":"ChapterReferences-module__JoKOdq__number","children":76}],["$","span",null,{"className":"ChapterReferences-module__JoKOdq__line","children":"Der Mensch, wenn er ins Leben tritt,"}]]}]}]]}]]}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+18:I[27201,["/tao-app/_next/static/chunks/35repbuab1010.js"],"IconMark"]
+9:null
+13:[["$","title","0",{"children":"Zhan Zhuang — Stehen wie ein Pfahl · Tao"}],["$","meta","1",{"name":"description","content":"Reglos stehen und dabei aufmerksam bleiben. Kräftigt Körper und Geduld gleichzeitig."}],["$","meta","2",{"name":"application-name","content":"Tao"}],["$","link","3",{"rel":"manifest","href":"/tao-app/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"apple-mobile-web-app-title","content":"Tao"}],["$","meta","6",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","7",{"rel":"icon","href":"/tao-app/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L18","8",{}]]

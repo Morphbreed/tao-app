@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Falltag\u002F[slug]","\u002Fdaodejing\u002F[chapter]","\u002Fgeschichten\u002F[slug]","\u002Fmeditation\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

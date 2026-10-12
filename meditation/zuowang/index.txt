@@ -1,0 +1,67 @@
+1:"$Sreact.fragment"
+2:I[22530,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+3:I[39756,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+4:I[37457,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+5:I[47079,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+7:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+b:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"ViewportBoundary"]
+e:I[68027,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default",1]
+:HL["/tao-app/_next/static/chunks/1jy68zrb1-1t_.css","style"]
+:HL["/tao-app/_next/static/chunks/21t2l-g7f--hr.css","style"]
+a:X
+0:{"P":null,"c":["","meditation","zuowang",""],"q":"","i":false,"f":[[["",{"children":["meditation",{"children":[["slug","zuowang","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/tao-app/_next/static/chunks/1jy68zrb1-1t_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/tao-app/_next/static/chunks/35repbuab1010.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n(function () {\n  try {\n    var stored = localStorage.getItem('tao-theme');\n    var dark = stored === 'dark' ||\n      (stored !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches);\n\n    if (stored === 'dark' || stored === 'light') {\n      document.documentElement.dataset.theme = stored;\n    }\n\n    var meta = document.createElement('meta');\n    meta.name = 'theme-color';\n    meta.content = dark ? '#161614' : '#f7f4ee';\n    document.head.appendChild(meta);\n  } catch (e) {}\n})();\n"}}]}],["$","body",null,{"children":[["$","a",null,{"href":"#content","className":"layout-module__L5FxyW__skipLink","children":"Zum Inhalt springen"}],["$","header",null,{"className":"layout-module__L5FxyW__header","children":["$","div",null,{"className":"layout-module__L5FxyW__headerInner","children":[["$","a",null,{"href":"/tao-app/","className":"layout-module__L5FxyW__brand","children":[["$","span",null,{"className":"layout-module__L5FxyW__brandMark","aria-hidden":"true","children":"道"}],["$","span",null,{"className":"layout-module__L5FxyW__brandText","children":"Tao"}]]}],["$","nav",null,{"className":"layout-module__L5FxyW__nav","aria-label":"Hauptbereiche","children":[["$","a","/daodejing",{"href":"/tao-app/daodejing/","className":"layout-module__L5FxyW__navLink","children":"Daodejing"}],["$","a","/meditation",{"href":"/tao-app/meditation/","className":"layout-module__L5FxyW__navLink","children":"Meditation"}],["$","a","/geschichten",{"href":"/tao-app/geschichten/","className":"layout-module__L5FxyW__navLink","children":"Geschichten"}],["$","a","/alltag",{"href":"/tao-app/alltag/","className":"layout-module__L5FxyW__navLink","children":"Alltag"}]]}],["$","$L2",null,{}]]}]}],["$","main",null,{"id":"content","className":"layout-module__L5FxyW__content","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"style":{"maxWidth":"34rem"},"children":[["$","h1",null,{"style":{"fontSize":"1.875rem","marginBottom":"1rem"},"children":"Nichts gefunden"}],["$","p",null,{"style":{"color":"var(--ink-muted)"},"children":["Diese Seite gibt es nicht. Vielleicht hilft der Weg zurück zum"," ",["$","a",null,{"href":"/tao-app/daodejing/","children":"Daodejing"}]," oder zur"," ",["$","a",null,{"href":"/tao-app/","children":"Startseite"}],"."]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"layout-module__L5FxyW__footer","children":["$","div",null,{"className":"layout-module__L5FxyW__footerInner","children":[["$","p",null,{"className":"layout-module__L5FxyW__footerText","children":"Daodejing in der Übersetzung von Richard Wilhelm (1910) — gemeinfrei."}],["$","a",null,{"href":"/tao-app/ueber/","className":"layout-module__L5FxyW__footerLink","children":"Über diese App"}]]}]}],["$","$L5",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","link","0",{"rel":"stylesheet","href":"/tao-app/_next/static/chunks/21t2l-g7f--hr.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/tao-app/_next/static/chunks/0dno5x-2ulll7.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,null]},null,false,"$a"]},null,false,"$a"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],"$Ld",null]}],false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"GhfDTwTLj84dCYq-VKD8-"}
+10:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"MetadataBoundary"]
+a:C
+d:["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$L11"}]}]}]
+f:["$","link","0",{"rel":"stylesheet","href":"/tao-app/_next/static/chunks/1jy68zrb1-1t_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+12:Tbeb,<p>Die meisten Meditationsformen, die man heute kennt, arbeiten mit Sammlung: Du richtest
+die Aufmerksamkeit auf etwas und hältst sie dort. Zuowang geht den umgekehrten Weg.
+Das Wort bedeutet wörtlich „sitzen und vergessen". Geübt wird nicht das Festhalten,
+sondern das Fallenlassen — der Vorstellungen, der Absichten, zuletzt auch der Vorstellung,
+jemand zu sein, der hier gerade übt.</p>
+<p>Der Begriff stammt aus dem Zhuangzi, wo eine Figur beschreibt, wie sie nacheinander
+Körperbewusstsein, Wahrnehmung und Wissen ablegt, bis sie „mit dem Durchdringenden eins"
+wird. Das klingt weit entfernt, beschreibt aber eine sehr konkrete Bewegung: weniger tun,
+nicht mehr.</p>
+<h2>Haltung</h2>
+<p>Sitze aufrecht, aber ohne Anstrengung — auf einem Kissen im Schneidersitz oder auf einem
+Stuhl mit beiden Füßen am Boden. Die Wirbelsäule ist aufgerichtet, der Brustkorb offen,
+die Schultern hängen. Die Hände ruhen locker im Schoß oder auf den Oberschenkeln. Die Augen
+sind halb geschlossen, der Blick geht unscharf ein paar Schritte vor dir zu Boden.</p>
+<p>Prüfe kurz: Kiefer, Zunge, Stirn, Bauch. Überall dort sitzt Spannung, die man leicht
+übersieht.</p>
+<h2>Ablauf</h2>
+<ol>
+<li><strong>Ankommen (2–3 Minuten).</strong> Atme ein paar Mal bewusst aus, länger als ein. Lass den
+Körper mit jedem Ausatmen ein Stück schwerer werden.</li>
+<li><strong>Den Atem gehen lassen.</strong> Steuere ihn nicht. Beobachte ihn auch nicht besonders
+aufmerksam — nimm ihn nur zur Kenntnis, so wie man Regen vor dem Fenster zur Kenntnis nimmt.</li>
+<li><strong>Gedanken nicht wegschieben.</strong> Wenn ein Gedanke kommt, greif ihn nicht auf und
+bekämpfe ihn auch nicht. Lass ihn liegen. Er zerfällt von selbst, wenn du ihn nicht fütterst.</li>
+<li><strong>Absichten loslassen.</strong> Irgendwann bemerkst du die Absicht, richtig zu meditieren.
+Auch die darf gehen. Das ist der eigentliche Kern der Übung.</li>
+<li><strong>Beenden.</strong> Öffne die Augen langsam, bewege die Finger, bleib noch eine halbe Minute
+sitzen, bevor du aufstehst.</li>
+</ol>
+<h2>Typische Stolpersteine</h2>
+<ul>
+<li><strong>„Ich mache es falsch."</strong> Zuowang hat kein Ergebnis, an dem man es messen könnte.
+Ein Sitzen voller Gedanken ist keine misslungene Sitzung.</li>
+<li><strong>Gegen Müdigkeit ankämpfen.</strong> Wer regelmäßig einschläft, sitzt meist zu weich oder
+übt zur falschen Tageszeit. Früher Morgen ist für viele leichter als der späte Abend.</li>
+<li><strong>Zu lange am Anfang.</strong> Zehn Minuten täglich tragen weiter als eine Stunde am Sonntag.</li>
+</ul>
+<h2>Bezug zum Daodejing</h2>
+<p><a href="/tao-app/daodejing/48/" class="chapter-link">Kapitel 48</a> beschreibt genau diese Bewegung: einen Weg, auf dem täglich etwas abnimmt
+statt zunimmt, bis am Ende das Nicht-Machen steht. Und <a href="/tao-app/daodejing/16/" class="chapter-link">Kapitel 16</a> nennt die Richtung —
+die Leere bis zum Äußersten, die Ruhe, in der sich die Dinge von selbst ordnen. Zuowang
+ist die praktische Seite dieser beiden Kapitel.</p>
+6:["$","article",null,{"className":"section-module__zQf7-W__article","children":[["$","header",null,{"className":"section-module__zQf7-W__articleHeader","children":[["$","a",null,{"href":"/tao-app/meditation/","className":"section-module__zQf7-W__backLink","children":"Meditation"}],["$","h1",null,{"className":"section-module__zQf7-W__articleTitle","children":"Zuowang — Sitzen im Vergessen"}],["$","p",null,{"className":"section-module__zQf7-W__articleSummary","children":"Nicht konzentrieren, sondern loslassen. Die älteste Sitzübung des Daoismus."}],["$","p",null,{"className":"section-module__zQf7-W__meta","children":["15–30 Minuten",["$","span",null,{"aria-hidden":"true","children":" · "}],"Für den Einstieg geeignet"]}]]}],["$","div",null,{"className":"ArticleBody-module__tTbnDG__prose","dangerouslySetInnerHTML":{"__html":"$12"}}],"$L13","$L14"]}]
+15:I[46377,["/tao-app/_next/static/chunks/35repbuab1010.js","/tao-app/_next/static/chunks/0dno5x-2ulll7.js"],"default"]
+13:["$","$L15",null,{"minutes":[15,30]}]
+14:["$","section",null,{"className":"ChapterReferences-module__JoKOdq__block","aria-labelledby":"chapter-refs-heading","children":[["$","h2",null,{"id":"chapter-refs-heading","className":"ChapterReferences-module__JoKOdq__heading","children":"Zugehörige Kapitel"}],["$","ul",null,{"className":"ChapterReferences-module__JoKOdq__list","children":[["$","li","16",{"children":["$","a",null,{"href":"/tao-app/daodejing/16/","className":"ChapterReferences-module__JoKOdq__item","children":[["$","span",null,{"className":"ChapterReferences-module__JoKOdq__number","children":16}],["$","span",null,{"className":"ChapterReferences-module__JoKOdq__line","children":"Scharfe Leere bis zum Höchsten!"}]]}]}],["$","li","48",{"children":["$","a",null,{"href":"/tao-app/daodejing/48/","className":"ChapterReferences-module__JoKOdq__item","children":[["$","span",null,{"className":"ChapterReferences-module__JoKOdq__number","children":48}],["$","span",null,{"className":"ChapterReferences-module__JoKOdq__line","children":"Wer das Lernen übt, vermehrt täglich."}]]}]}]]}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]
+16:I[27201,["/tao-app/_next/static/chunks/35repbuab1010.js"],"IconMark"]
+9:null
+11:[["$","title","0",{"children":"Zuowang — Sitzen im Vergessen · Tao"}],["$","meta","1",{"name":"description","content":"Nicht konzentrieren, sondern loslassen. Die älteste Sitzübung des Daoismus."}],["$","meta","2",{"name":"application-name","content":"Tao"}],["$","link","3",{"rel":"manifest","href":"/tao-app/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"apple-mobile-web-app-title","content":"Tao"}],["$","meta","6",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","7",{"rel":"icon","href":"/tao-app/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L16","8",{}]]

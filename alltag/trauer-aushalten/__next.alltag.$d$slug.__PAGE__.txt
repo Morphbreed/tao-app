@@ -1,0 +1,62 @@
+1:"$Sreact.fragment"
+2:T853,<p><a href="/tao-app/daodejing/76/" class="chapter-link">Kapitel 76</a> beginnt mit dem Tod, ohne ihn zu erwähnen: Der Mensch kommt weich und schwach
+zur Welt, und wenn er stirbt, ist er hart und starr. Dasselbe bei den Pflanzen — lebendig
+zart, tot dürr. Das Buch behandelt das Sterben nicht als Betriebsstörung des Lebens,
+sondern als dessen andere Hälfte.</p>
+<p><a href="/tao-app/daodejing/50/" class="chapter-link">Kapitel 50</a> zählt nüchtern durch, wer den Weg zum Leben hin geht und wer den anderen, und
+nennt einen dritten Teil: die, die im Leben stehen und sich dabei auf den Ort des Todes
+zubewegen — weil sie ihr Leben steigern wollen.</p>
+<h2>Worum es geht</h2>
+<p>Trauer soll schnell gehen. Der Druck kommt von außen, wo man nach ein paar Wochen fragt,
+wie es denn wieder gehe, und von innen, wo man sich beim Nichtfunktionieren ertappt.</p>
+<p>Die übliche Antwort darauf ist, hart zu werden: den Betrieb aufrechterhalten, sich
+zusammennehmen, weitermachen. Genau davor steht die Beobachtung aus <a href="/tao-app/daodejing/76/" class="chapter-link">Kapitel 76</a>. Hart ist
+nicht die Verfassung der Lebenden.</p>
+<p>Weich bleiben heißt hier nicht zusammenbrechen. Es heißt, die Trauer kommen und gehen zu
+lassen, wie sie kommt — in Wellen, ohne Reihenfolge, ohne Zeitplan. Sie hört nicht auf,
+weil man sie besiegt. Sie wird seltener.</p>
+<h2>Eine Übung für diese Woche</h2>
+<p><strong>Eine Viertelstunde ohne Ablenkung.</strong> Nimm dir täglich fünfzehn Minuten, in denen du
+nichts tust, was ablenkt — kein Bildschirm, keine Musik, keine Aufgabe. Wenn Trauer
+kommt, ist sie da. Wenn sie nicht kommt, ist das auch in Ordnung.</p>
+<p>Der zweite Teil ist der wichtigere: Außerhalb dieser Viertelstunde darfst du abgelenkt
+sein, ohne dich dafür zu verurteilen. Ablenkung ist keine Untreue. Sie ist die Pause,
+die das Weiche braucht, um weich zu bleiben.</p>
+<h2>Zum Nachdenken</h2>
+<ul>
+<li>Wovor schützt dich das Funktionieren gerade?</li>
+<li>Wem gegenüber spielst du, dass es schon wieder geht?</li>
+<li>Was würde sich ändern, wenn niemand fragte, wie lange das noch dauert?</li>
+</ul>
+7:X
+c:X
+c:C
+0:{"buildId":"GhfDTwTLj84dCYq-VKD8-","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"section-module__zQf7-W__article","children":[["$","header",null,{"className":"section-module__zQf7-W__articleHeader","children":[["$","a",null,{"href":"/tao-app/alltag/","className":"section-module__zQf7-W__backLink","children":"Im Alltag"}],["$","h1",null,{"className":"section-module__zQf7-W__articleTitle","children":"Trauer aushalten"}],["$","p",null,{"className":"section-module__zQf7-W__articleSummary","children":"Verlust lässt sich nicht abkürzen. Man kann ihn nur weich tragen statt hart."}]]}],["$","div",null,{"className":"ArticleBody-module__tTbnDG__prose","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"ChapterReferences-module__JoKOdq__block","aria-labelledby":"chapter-refs-heading","children":[["$","h2",null,{"id":"chapter-refs-heading","className":"ChapterReferences-module__JoKOdq__heading","children":"Zugehörige Kapitel"}],["$","ul",null,{"className":"ChapterReferences-module__JoKOdq__list","children":[["$","li","76",{"children":["$","a",null,{"href":"/tao-app/daodejing/76/","className":"ChapterReferences-module__JoKOdq__item","children":[["$","span",null,{"className":"ChapterReferences-module__JoKOdq__number","children":76}],["$","span",null,{"className":"ChapterReferences-module__JoKOdq__line","children":"Der Mensch, wenn er ins Leben tritt,"}]]}]}],["$","li","50",{"children":"$L3"}]]}]]}]]}],["$L4"],"$L5"]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":"$L8","isPartial":"$@9","staleTime":"$7","varyParams":null},{"rsc":"$La","isPartial":"$@b","staleTime":"$7","varyParams":"$c"},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$7","varyParams":"$c"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+13:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"ViewportBoundary"]
+17:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"MetadataBoundary"]
+18:I[27201,["/tao-app/_next/static/chunks/35repbuab1010.js"],"IconMark"]
+19:I[39756,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+1a:I[37457,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+1b:I[22530,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+1c:I[47079,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+:HL["/tao-app/_next/static/chunks/21t2l-g7f--hr.css","style"]
+:HL["/tao-app/_next/static/chunks/1jy68zrb1-1t_.css","style"]
+3:["$","a",null,{"href":"/tao-app/daodejing/50/","className":"ChapterReferences-module__JoKOdq__item","children":[["$","span",null,{"className":"ChapterReferences-module__JoKOdq__number","children":50}],["$","span",null,{"className":"ChapterReferences-module__JoKOdq__line","children":"Ausgehen ist Leben, eingehen ist Tod."}]]}]
+4:["$","link","0",{"rel":"stylesheet","href":"/tao-app/_next/static/chunks/21t2l-g7f--hr.css","precedence":"next"}]
+5:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+8:["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Trauer aushalten · Tao"}],["$","meta","1",{"name":"description","content":"Verlust lässt sich nicht abkürzen. Man kann ihn nur weich tragen statt hart."}],["$","meta","2",{"name":"application-name","content":"Tao"}],["$","link","3",{"rel":"manifest","href":"/tao-app/manifest.webmanifest"}],["$","meta","4",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"apple-mobile-web-app-title","content":"Tao"}],["$","meta","6",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","7",{"rel":"icon","href":"/tao-app/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L18","8",{}]]}]}]}],null]}]
+a:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+d:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+f:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/tao-app/_next/static/chunks/1jy68zrb1-1t_.css","precedence":"next"}],["$","script","script-0",{"src":"/tao-app/_next/static/chunks/35repbuab1010.js","async":true}]],["$","html",null,{"lang":"de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n(function () {\n  try {\n    var stored = localStorage.getItem('tao-theme');\n    var dark = stored === 'dark' ||\n      (stored !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches);\n\n    if (stored === 'dark' || stored === 'light') {\n      document.documentElement.dataset.theme = stored;\n    }\n\n    var meta = document.createElement('meta');\n    meta.name = 'theme-color';\n    meta.content = dark ? '#161614' : '#f7f4ee';\n    document.head.appendChild(meta);\n  } catch (e) {}\n})();\n"}}]}],["$","body",null,{"children":[["$","a",null,{"href":"#content","className":"layout-module__L5FxyW__skipLink","children":"Zum Inhalt springen"}],["$","header",null,{"className":"layout-module__L5FxyW__header","children":["$","div",null,{"className":"layout-module__L5FxyW__headerInner","children":[["$","a",null,{"href":"/tao-app/","className":"layout-module__L5FxyW__brand","children":[["$","span",null,{"className":"layout-module__L5FxyW__brandMark","aria-hidden":"true","children":"道"}],["$","span",null,{"className":"layout-module__L5FxyW__brandText","children":"Tao"}]]}],["$","nav",null,{"className":"layout-module__L5FxyW__nav","aria-label":"Hauptbereiche","children":[["$","a","/daodejing",{"href":"/tao-app/daodejing/","className":"layout-module__L5FxyW__navLink","children":"Daodejing"}],["$","a","/meditation",{"href":"/tao-app/meditation/","className":"layout-module__L5FxyW__navLink","children":"Meditation"}],["$","a","/geschichten",{"href":"/tao-app/geschichten/","className":"layout-module__L5FxyW__navLink","children":"Geschichten"}],["$","a","/alltag",{"href":"/tao-app/alltag/","className":"layout-module__L5FxyW__navLink","children":"Alltag"}]]}],["$","$L1b",null,{}]]}]}],["$","main",null,{"id":"content","className":"layout-module__L5FxyW__content","children":["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}],"notFound":[["$","div",null,{"style":{"maxWidth":"34rem"},"children":[["$","h1",null,{"style":{"fontSize":"1.875rem","marginBottom":"1rem"},"children":"Nichts gefunden"}],["$","p",null,{"style":{"color":"var(--ink-muted)"},"children":["Diese Seite gibt es nicht. Vielleicht hilft der Weg zurück zum"," ",["$","a",null,{"href":"/tao-app/daodejing/","children":"Daodejing"}]," oder zur"," ",["$","a",null,{"href":"/tao-app/","children":"Startseite"}],"."]}]]}],[]]}]}],["$","footer",null,{"className":"layout-module__L5FxyW__footer","children":["$","div",null,{"className":"layout-module__L5FxyW__footerInner","children":[["$","p",null,{"className":"layout-module__L5FxyW__footerText","children":"Daodejing in der Übersetzung von Richard Wilhelm (1910) — gemeinfrei."}],["$","a",null,{"href":"/tao-app/ueber/","className":"layout-module__L5FxyW__footerLink","children":"Über diese App"}]]}]}],["$","$L1c",null,{}]]}]]}]]}]
+15:null
+12:true
+7:300
+7:C
+11:0
+9:"$undefined"
+b:"$undefined"
+e:"$undefined"
+10:"$undefined"
+6:"$undefined"

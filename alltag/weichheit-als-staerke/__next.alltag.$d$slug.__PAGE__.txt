@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:T819,<p><a href="/tao-app/daodejing/76/" class="chapter-link">Kapitel 76</a> stellt eine Beobachtung an den Anfang, die sich überprüfen lässt: Lebendiges
+ist weich und biegsam, Totes ist hart und starr. Ein frischer Zweig lässt sich biegen,
+ein trockener bricht. Daraus folgt der Schluss, dass das Starre zum Bereich des Toten
+gehört und das Weiche zum Bereich des Lebendigen.</p>
+<p><a href="/tao-app/daodejing/43/" class="chapter-link">Kapitel 43</a> zieht die praktische Konsequenz: Das Weichste der Welt überwindet das Härteste.</p>
+<h2>Worum es geht</h2>
+<p>Übertragen auf Menschen meint Härte hier vor allem Unbeweglichkeit — im Standpunkt, in
+der Reaktion, in der Art zu arbeiten. Wer auf jede Störung mit mehr Festigkeit antwortet,
+wird mit der Zeit spröde. Nicht stärker.</p>
+<p>Das Missverständnis liegt darin, Weichheit mit Nachgiebigkeit zu verwechseln. Ein Bambus
+gibt im Sturm vollständig nach und steht danach wieder gerade. Er hat seine Richtung
+nicht aufgegeben, nur seine Form vorübergehend verändert.</p>
+<h2>Eine Übung für diese Woche</h2>
+<p><strong>Die Gegenprobe bei Widerstand.</strong> Immer wenn du diese Woche merkst, dass du auf
+Widerstand mit mehr Druck reagierst — im Gespräch, am Rechner, beim Sport —, halte kurz
+inne und stell eine einzige Frage:</p>
+<p><em>Was wäre hier die weiche Variante?</em></p>
+<p>Und zwar nicht theoretisch, sondern als nächster konkreter Schritt. Beispiele:</p>
+<ul>
+<li>Statt das Argument zu wiederholen: fragen, was das Gegenüber davon abhält.</li>
+<li>Statt den Fehler weiter einzukreisen: eine Stunde etwas anderes machen.</li>
+<li>Statt die Deadline zu verteidigen: den Umfang verkleinern.</li>
+</ul>
+<p>Notiere abends, wie oft dir die Frage eingefallen ist. In der ersten Woche sind zwei
+oder drei Mal schon viel.</p>
+<h2>Zum Nachdenken</h2>
+<ul>
+<li>Wo bist du in den letzten Jahren starr geworden, ohne es zu bemerken?</li>
+<li>Welche Position verteidigst du, weil du sie einmal eingenommen hast?</li>
+<li>Wobei hat Nachgeben dich zuletzt weitergebracht als Durchhalten?</li>
+</ul>
+8:X
+d:X
+d:C
+0:{"buildId":"GhfDTwTLj84dCYq-VKD8-","data":[{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"section-module__zQf7-W__article","children":[["$","header",null,{"className":"section-module__zQf7-W__articleHeader","children":[["$","a",null,{"href":"/tao-app/alltag/","className":"section-module__zQf7-W__backLink","children":"Im Alltag"}],["$","h1",null,{"className":"section-module__zQf7-W__articleTitle","children":"Weichheit als Stärke"}],["$","p",null,{"className":"section-module__zQf7-W__articleSummary","children":"Das Harte bricht, das Biegsame bleibt."}]]}],["$","div",null,{"className":"ArticleBody-module__tTbnDG__prose","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"ChapterReferences-module__JoKOdq__block","aria-labelledby":"chapter-refs-heading","children":[["$","h2",null,{"id":"chapter-refs-heading","className":"ChapterReferences-module__JoKOdq__heading","children":"Zugehörige Kapitel"}],["$","ul",null,{"className":"ChapterReferences-module__JoKOdq__list","children":[["$","li","76",{"children":["$","a",null,{"href":"/tao-app/daodejing/76/","className":"ChapterReferences-module__JoKOdq__item","children":[["$","span",null,{"className":"ChapterReferences-module__JoKOdq__number","children":76}],["$","span",null,{"className":"ChapterReferences-module__JoKOdq__line","children":"Der Mensch, wenn er ins Leben tritt,"}]]}]}],["$","li","43",{"children":["$","a",null,{"href":"/tao-app/daodejing/43/","className":"ChapterReferences-module__JoKOdq__item","children":["$L3","$L4"]}]}]]}]]}]]}],["$L5"],"$L6"]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$8","varyParams":null},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$8","varyParams":"$d"},{"rsc":"$Le","isPartial":"$@f","staleTime":"$8","varyParams":"$d"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$8","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+14:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"ViewportBoundary"]
+18:I[97367,["/tao-app/_next/static/chunks/35repbuab1010.js"],"MetadataBoundary"]
+19:I[27201,["/tao-app/_next/static/chunks/35repbuab1010.js"],"IconMark"]
+1a:I[39756,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+1b:I[37457,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+1c:I[22530,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+1d:I[47079,["/tao-app/_next/static/chunks/35repbuab1010.js"],"default"]
+:HL["/tao-app/_next/static/chunks/21t2l-g7f--hr.css","style"]
+:HL["/tao-app/_next/static/chunks/1jy68zrb1-1t_.css","style"]
+3:["$","span",null,{"className":"ChapterReferences-module__JoKOdq__number","children":43}]
+4:["$","span",null,{"className":"ChapterReferences-module__JoKOdq__line","children":"Das Allerweichste auf Erden"}]
+5:["$","link","0",{"rel":"stylesheet","href":"/tao-app/_next/static/chunks/21t2l-g7f--hr.css","precedence":"next"}]
+6:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+9:["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}]]}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Weichheit als Stärke · Tao"}],["$","meta","1",{"name":"description","content":"Das Harte bricht, das Biegsame bleibt."}],["$","meta","2",{"name":"application-name","content":"Tao"}],["$","link","3",{"rel":"manifest","href":"/tao-app/manifest.webmanifest"}],["$","meta","4",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"apple-mobile-web-app-title","content":"Tao"}],["$","meta","6",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","link","7",{"rel":"icon","href":"/tao-app/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L19","8",{}]]}]}]}],null]}]
+b:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+e:["$","$1","c",{"children":[null,["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}]}]]}]
+10:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/tao-app/_next/static/chunks/1jy68zrb1-1t_.css","precedence":"next"}],["$","script","script-0",{"src":"/tao-app/_next/static/chunks/35repbuab1010.js","async":true}]],["$","html",null,{"lang":"de","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n(function () {\n  try {\n    var stored = localStorage.getItem('tao-theme');\n    var dark = stored === 'dark' ||\n      (stored !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches);\n\n    if (stored === 'dark' || stored === 'light') {\n      document.documentElement.dataset.theme = stored;\n    }\n\n    var meta = document.createElement('meta');\n    meta.name = 'theme-color';\n    meta.content = dark ? '#161614' : '#f7f4ee';\n    document.head.appendChild(meta);\n  } catch (e) {}\n})();\n"}}]}],["$","body",null,{"children":[["$","a",null,{"href":"#content","className":"layout-module__L5FxyW__skipLink","children":"Zum Inhalt springen"}],["$","header",null,{"className":"layout-module__L5FxyW__header","children":["$","div",null,{"className":"layout-module__L5FxyW__headerInner","children":[["$","a",null,{"href":"/tao-app/","className":"layout-module__L5FxyW__brand","children":[["$","span",null,{"className":"layout-module__L5FxyW__brandMark","aria-hidden":"true","children":"道"}],["$","span",null,{"className":"layout-module__L5FxyW__brandText","children":"Tao"}]]}],["$","nav",null,{"className":"layout-module__L5FxyW__nav","aria-label":"Hauptbereiche","children":[["$","a","/daodejing",{"href":"/tao-app/daodejing/","className":"layout-module__L5FxyW__navLink","children":"Daodejing"}],["$","a","/meditation",{"href":"/tao-app/meditation/","className":"layout-module__L5FxyW__navLink","children":"Meditation"}],["$","a","/geschichten",{"href":"/tao-app/geschichten/","className":"layout-module__L5FxyW__navLink","children":"Geschichten"}],["$","a","/alltag",{"href":"/tao-app/alltag/","className":"layout-module__L5FxyW__navLink","children":"Alltag"}]]}],["$","$L1c",null,{}]]}]}],["$","main",null,{"id":"content","className":"layout-module__L5FxyW__content","children":["$","$L1a",null,{"parallelRouterKey":"children","template":["$","$L1b",null,{}],"notFound":[["$","div",null,{"style":{"maxWidth":"34rem"},"children":[["$","h1",null,{"style":{"fontSize":"1.875rem","marginBottom":"1rem"},"children":"Nichts gefunden"}],["$","p",null,{"style":{"color":"var(--ink-muted)"},"children":["Diese Seite gibt es nicht. Vielleicht hilft der Weg zurück zum"," ",["$","a",null,{"href":"/tao-app/daodejing/","children":"Daodejing"}]," oder zur"," ",["$","a",null,{"href":"/tao-app/","children":"Startseite"}],"."]}]]}],[]]}]}],["$","footer",null,{"className":"layout-module__L5FxyW__footer","children":["$","div",null,{"className":"layout-module__L5FxyW__footerInner","children":[["$","p",null,{"className":"layout-module__L5FxyW__footerText","children":"Daodejing in der Übersetzung von Richard Wilhelm (1910) — gemeinfrei."}],["$","a",null,{"href":"/tao-app/ueber/","className":"layout-module__L5FxyW__footerLink","children":"Über diese App"}]]}]}],["$","$L1d",null,{}]]}]]}]]}]
+16:null
+13:true
+8:300
+8:C
+12:0
+a:"$undefined"
+c:"$undefined"
+f:"$undefined"
+11:"$undefined"
+7:"$undefined"
