@@ -1,0 +1,20 @@
+.terms {
+  margin: var(--space-5) 0 0;
+  max-width: var(--measure);
+  font-size: var(--size-xs);
+  color: var(--ink-faint);
+  line-height: 1.8;
+}
+
+.label {
+  letter-spacing: 0.04em;
+}
+
+.link {
+  color: var(--ink-muted);
+  text-decoration-color: var(--rule);
+}
+
+.link:hover {
+  color: var(--ink);
+}

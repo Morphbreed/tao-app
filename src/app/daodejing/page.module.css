@@ -1,0 +1,24 @@
+.header {
+  margin-bottom: var(--space-6);
+}
+
+.title {
+  font-family: var(--font-verse);
+  font-size: var(--size-xl);
+  margin-bottom: var(--space-2);
+}
+
+.subtitle {
+  margin: 0;
+  color: var(--ink-muted);
+  font-size: var(--size-s);
+}
+
+.subtitleLink {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.subtitleLink:hover {
+  text-decoration: underline;
+}

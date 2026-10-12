@@ -1,0 +1,9 @@
+---
+title: Sitzen im Vergessen
+summary: "Schwalbensohn besuchte den Freigeber i. Freigeber sprach: „Was hat dir Yau geboten?\" Sdiwalbensohn sprach: …"
+book: Buch VI
+source: "6. Befreiung aus den Banden der Moral"
+chapters: [16, 48]
+order: 11
+---
+Schwalbensohn besuchte den Freigeber i. Freigeber sprach: „Was hat dir Yau geboten?" Sdiwalbensohn sprach: „Yau hat zu mir gesagt:,Du mußt dich selbst der Güte und Gerechtigkeit unterwerfen, dann wirst du Klarheit bekommen, über Recht und Unrecht zu reden.'" Freigeber sprach: „Was hast du dann bei mir zu schaffen, da dich dieser Yau gebrandmarkt hat mit Güte und Gerechtigkeit und dir die Nase abgeschnitten hat mit Recht und Unrecht? Wie willst du da noch imstande sein, zu wandern auf dem Pfad zielloser Muße, freier Ungebundenheit und ewigen Wechsels?" Schwalbensohn sprach: „So möchte ich wenigstens am Zaune stehen." Freigeber sprach: „Nicht also! Einem Augenlosen soll man nicht reden von der Schönheit der Augen und des Gesichtsausdrucks; einem Blinden soll man nicht reden vom Anblick der Farben und Linien." Schwalbensohn sprach: „Die schönheitsstolze Wu Dschang verlor ihre Schönheit, der tapfere Gü Liang verlor seine Stärke, und der Herr der gelben Erde vergaß seine Weisheit in Eurer Schmiede. Wie wollt Ihr wissen, daß der Schöpfer nicht auch meine Brandmale heilen kann und meine Verletzung ausgleichen, so daß ich völlig werde. Euch als meinem Lehrer zu folgen?" Freigeber sprach: „Ach ja, man kann's nicht wissen. So will ich dir denn eine Andeutung geben: O mein Meister, o mein Meister, der du alle Dinge richtest und bist doch nicht gerecht; der du alle Geschlechter segnest und bist doch nicht gütig; der du warst vor aller Urzeit und bist doch nicht alt; der du Himmel und Erde schirmst und trägst; der du alle Gestalten Xbüdest und bist doch nicht kunstreich: du bist es, in dem wir wandeln!"

@@ -1,0 +1,67 @@
+.bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 20;
+  background: var(--paper-raised);
+  border-top: 1px solid var(--rule);
+  /* Keeps clear of the home indicator on phones. */
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+.inner {
+  max-width: var(--page-width);
+  margin: 0 auto;
+  padding: var(--space-3) var(--space-5);
+}
+
+.text {
+  margin: 0 0 var(--space-2);
+  font-size: var(--size-xs);
+  color: var(--ink-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.track {
+  height: 2px;
+  background: var(--rule);
+  overflow: hidden;
+  border-radius: 1px;
+}
+
+.fill {
+  display: block;
+  height: 100%;
+  background: var(--accent);
+  transform-origin: left center;
+  transition: transform 0.3s linear;
+}
+
+/* Der Aktualisierungshinweis: Text und Schaltfläche in einer Zeile. */
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-4);
+}
+
+.row .text {
+  margin: 0;
+}
+
+.action {
+  font: inherit;
+  font-size: var(--size-xs);
+  flex: none;
+  padding: var(--space-2) var(--space-4);
+  color: var(--paper-raised);
+  background: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+
+.action:hover {
+  opacity: 0.88;
+}

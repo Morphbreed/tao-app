@@ -1,0 +1,146 @@
+.skipLink {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 100;
+  padding: var(--space-3) var(--space-4);
+  background: var(--paper-raised);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+}
+
+.skipLink:focus {
+  left: var(--space-4);
+  top: var(--space-4);
+}
+
+/* --- Header --------------------------------------------------------------- */
+
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: color-mix(in srgb, var(--paper) 88%, transparent);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--rule);
+}
+
+.headerInner {
+  max-width: var(--page-width);
+  margin: 0 auto;
+  /* Die Seite reicht unter die Systemleisten (viewport-fit: cover), darum der
+     Zuschlag oben und an den Seiten — sonst sitzt der Kopf unter der
+     Statusleiste oder hinter einer Aussparung. */
+  padding: calc(var(--space-3) + env(safe-area-inset-top, 0px))
+    calc(var(--space-4) + env(safe-area-inset-right, 0px)) var(--space-3)
+    calc(var(--space-4) + env(safe-area-inset-left, 0px));
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+.brandMark {
+  font-size: var(--size-l);
+  line-height: 1;
+  color: var(--accent);
+}
+
+.brandText {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.nav {
+  display: flex;
+  gap: var(--space-4);
+  margin-left: auto;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.nav::-webkit-scrollbar {
+  display: none;
+}
+
+.navLink {
+  color: var(--ink-muted);
+  text-decoration: none;
+  font-size: var(--size-s);
+  white-space: nowrap;
+  padding: var(--space-1) 0;
+  border-bottom: 1px solid transparent;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.navLink:hover {
+  color: var(--ink);
+  border-bottom-color: var(--accent);
+}
+
+/* --- Content -------------------------------------------------------------- */
+
+.content {
+  max-width: var(--page-width);
+  margin: 0 auto;
+  padding: var(--space-6) calc(var(--space-4) + env(safe-area-inset-right, 0px))
+    var(--space-8) calc(var(--space-4) + env(safe-area-inset-left, 0px));
+  min-height: 60vh;
+}
+
+/* --- Footer --------------------------------------------------------------- */
+
+.footer {
+  border-top: 1px solid var(--rule);
+  margin-top: var(--space-8);
+}
+
+.footerInner {
+  max-width: var(--page-width);
+  margin: 0 auto;
+  padding: var(--space-5) calc(var(--space-4) + env(safe-area-inset-right, 0px))
+    calc(var(--space-5) + env(safe-area-inset-bottom, 0px))
+    calc(var(--space-4) + env(safe-area-inset-left, 0px));
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3) var(--space-5);
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.footerText,
+.footerLink {
+  margin: 0;
+  font-size: var(--size-xs);
+  color: var(--ink-faint);
+}
+
+.footerLink {
+  text-decoration: none;
+}
+
+.footerLink:hover {
+  color: var(--ink-muted);
+  text-decoration: underline;
+}
+
+@media (max-width: 34rem) {
+  .headerInner {
+    flex-wrap: wrap;
+    gap: var(--space-2) var(--space-3);
+  }
+
+  .nav {
+    order: 3;
+    width: 100%;
+    margin-left: 0;
+    gap: var(--space-5);
+  }
+}

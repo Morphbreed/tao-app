@@ -1,0 +1,21 @@
+.lines {
+  font-family: var(--font-verse);
+  font-size: var(--size-l);
+  line-height: 1.75;
+  max-width: var(--measure);
+}
+
+.line {
+  margin: 0;
+  text-wrap: pretty;
+  /* Wrapped long lines are indented so the verse structure stays readable
+     on narrow screens. */
+  padding-left: 1.25em;
+  text-indent: -1.25em;
+}
+
+@media (max-width: 34rem) {
+  .lines {
+    font-size: var(--size-m);
+  }
+}

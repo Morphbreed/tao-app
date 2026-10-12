@@ -1,0 +1,66 @@
+.page {
+  max-width: var(--measure);
+}
+
+.header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-4);
+  margin-bottom: var(--space-6);
+  padding-bottom: var(--space-3);
+  border-bottom: 1px solid var(--rule);
+}
+
+.backLink {
+  font-size: var(--size-xs);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  text-decoration: none;
+}
+
+.backLink:hover {
+  color: var(--ink-muted);
+}
+
+.number {
+  margin: 0;
+  font-family: var(--font-verse);
+  font-size: var(--size-xl);
+  line-height: 1;
+  color: var(--accent);
+}
+
+.pager {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-4);
+  margin-top: var(--space-7);
+  padding-top: var(--space-5);
+  border-top: 1px solid var(--rule);
+}
+
+.pagerLink {
+  display: grid;
+  gap: var(--space-1);
+  text-decoration: none;
+  font-size: var(--size-s);
+}
+
+.pagerRight {
+  text-align: right;
+}
+
+.pagerDirection {
+  color: var(--ink-faint);
+  font-size: var(--size-xs);
+}
+
+.pagerTarget {
+  color: var(--ink);
+}
+
+.pagerLink:hover .pagerTarget {
+  color: var(--accent);
+}

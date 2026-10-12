@@ -1,69 +1,57 @@
-import Image from "next/image";
+import ChapterOfTheDay from "@/components/ChapterOfTheDay";
+import { getEverydayTopics, getMeditations, getStories } from "@/lib/content";
+import { CHAPTER_COUNT } from "@/lib/daodejing";
 import styles from "./page.module.css";
+import PageLink from "@/components/PageLink";
 
-export default function Home() {
+export default function HomePage() {
+  const meditations = getMeditations();
+  const everyday = getEverydayTopics();
+  const stories = getStories();
+
+  const sections = [
+    {
+      href: "/daodejing",
+      title: "Daodejing",
+      text: `Alle ${CHAPTER_COUNT} Kapitel in der Übersetzung von Richard Wilhelm.`,
+    },
+    {
+      href: "/meditation",
+      title: "Meditation",
+      text: `${meditations.length} taoistische Praktiken, Schritt für Schritt beschrieben.`,
+    },
+    {
+      href: "/geschichten",
+      title: "Geschichten",
+      text: `${stories.length} Stücke aus Dschuang Dsi — was das Daodejing behauptet, erzählen sie.`,
+    },
+    {
+      href: "/alltag",
+      title: "Im Alltag",
+      text: `${everyday.length} Themen, die zeigen, wie sich die Kapitel anwenden lassen.`,
+    },
+  ];
+
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className={styles.intro}>
-          <h1>
-            To get started, edit the{" "}
-            <code className={styles.code}>page.tsx</code> file.
-          </h1>
-          <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className={styles.secondary}
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+    <>
+      <section className={styles.intro}>
+        <h1 className={styles.title}>Tao</h1>
+        <p className={styles.subtitle}>
+          Das Daodejing zum Nachlesen, taoistische Meditationspraktiken und Anregungen,
+          wie sich beides im Alltag anwenden lässt.
+        </p>
+      </section>
+
+      <ChapterOfTheDay />
+
+      <nav className={styles.sections} aria-label="Bereiche">
+        {sections.map((section) => (
+          <PageLink key={section.href} href={section.href} className={styles.sectionCard}>
+            <h2 className={styles.sectionTitle}>{section.title}</h2>
+            <p className={styles.sectionText}>{section.text}</p>
+          </PageLink>
+        ))}
+      </nav>
+    </>
   );
 }

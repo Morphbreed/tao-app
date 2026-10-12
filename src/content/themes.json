@@ -1,0 +1,183 @@
+[
+  {
+    "slug": "wasser",
+    "label": "Wasser",
+    "chapters": [
+      8,
+      32,
+      43,
+      61,
+      66,
+      78
+    ]
+  },
+  {
+    "slug": "leere",
+    "label": "Leere",
+    "chapters": [
+      4,
+      5,
+      11,
+      14,
+      21,
+      40
+    ]
+  },
+  {
+    "slug": "stille",
+    "label": "Stille",
+    "chapters": [
+      15,
+      16,
+      23,
+      26,
+      35,
+      45,
+      56
+    ]
+  },
+  {
+    "slug": "weichheit",
+    "label": "Weichheit",
+    "chapters": [
+      6,
+      10,
+      22,
+      36,
+      52,
+      55,
+      76,
+      78
+    ]
+  },
+  {
+    "slug": "nichthandeln",
+    "label": "Nicht-Handeln",
+    "chapters": [
+      2,
+      3,
+      29,
+      37,
+      38,
+      47,
+      48,
+      57,
+      63,
+      64
+    ]
+  },
+  {
+    "slug": "fuehren",
+    "label": "Führen",
+    "chapters": [
+      17,
+      26,
+      58,
+      59,
+      60,
+      65,
+      66,
+      68,
+      72,
+      74,
+      75
+    ]
+  },
+  {
+    "slug": "genuegen",
+    "label": "Genügen",
+    "chapters": [
+      9,
+      12,
+      19,
+      33,
+      42,
+      44,
+      46,
+      50,
+      53,
+      67,
+      80
+    ]
+  },
+  {
+    "slug": "nichtwissen",
+    "label": "Nichtwissen",
+    "chapters": [
+      1,
+      18,
+      20,
+      41,
+      56,
+      70,
+      71,
+      81
+    ]
+  },
+  {
+    "slug": "anfangen",
+    "label": "Anfangen",
+    "chapters": [
+      9,
+      41,
+      54,
+      59,
+      63,
+      64
+    ]
+  },
+  {
+    "slug": "rueckkehr",
+    "label": "Rückkehr",
+    "chapters": [
+      14,
+      16,
+      25,
+      28,
+      32,
+      40,
+      52
+    ]
+  },
+  {
+    "slug": "guete",
+    "label": "Güte",
+    "chapters": [
+      8,
+      27,
+      49,
+      62,
+      67,
+      79
+    ]
+  },
+  {
+    "slug": "krieg",
+    "label": "Krieg und Streit",
+    "chapters": [
+      30,
+      31,
+      46,
+      68,
+      69,
+      73,
+      79
+    ]
+  },
+  {
+    "slug": "selbst",
+    "label": "Das Selbst hintansetzen",
+    "chapters": [
+      7,
+      13,
+      22,
+      24,
+      34,
+      39,
+      44,
+      51,
+      72,
+      77
+    ]
+  }
+]

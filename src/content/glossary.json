@@ -1,0 +1,194 @@
+[
+  {
+    "slug": "sinn",
+    "term": "Sinn",
+    "forms": [
+      "Sinn",
+      "Sinns",
+      "Sinne",
+      "Sinnes"
+    ],
+    "chinese": "道",
+    "pinyin": "dào",
+    "usual": "Tao, Dao, „der Weg“",
+    "text": "Wilhelms folgenreichste Entscheidung. Wo andere Übersetzungen „Tao“ stehen lassen oder „der Weg“ schreiben, steht bei ihm „Sinn“ — 72-mal, in 38 der 81 Kapitel. Er begründete die Wahl mit dem griechischen logos, den auch Goethes Faust als „Sinn“ wiedergibt: nicht ein Weg, den man geht, sondern der Zusammenhang, in dem alles steht. Wer das Wort einmal ersetzt liest, liest ein anderes Buch: „Der Weg, der sich beschreiben läßt, ist nicht der ewige Weg.“",
+    "chapters": [
+      1,
+      14,
+      21,
+      25,
+      40
+    ]
+  },
+  {
+    "slug": "leben",
+    "term": "Leben",
+    "forms": [
+      "Leben",
+      "Lebens"
+    ],
+    "chinese": "德",
+    "pinyin": "dé",
+    "usual": "Tugend, Wirkkraft, De",
+    "text": "Das zweite Wort im Titel des Buches — Dao-de-jing. Bei Wilhelm heißt es „Leben“, 62-mal. Gemeint ist nicht Lebendigkeit, sondern die Kraft, die einem Ding zukommt, wenn es dem Sinn folgt: seine Wirksamkeit, ohne dass es wirken wollte. Kapitel 38 handelt von nichts anderem und ist ohne diesen Schlüssel kaum zu lesen.",
+    "chapters": [
+      10,
+      38,
+      51,
+      55,
+      65
+    ]
+  },
+  {
+    "slug": "der-berufene",
+    "term": "der Berufene",
+    "forms": [
+      "Berufene",
+      "Berufenen",
+      "Berufener",
+      "Berufenem"
+    ],
+    "chinese": "聖人",
+    "pinyin": "shèngrén",
+    "usual": "der Weise, der Heilige",
+    "text": "32-mal, meist als Einleitung zu einem Beispiel: „Also auch der Berufene …“. Wörtlich der „Heilige“, doch Wilhelm mied das kirchliche Wort. „Berufen“ heißt hier nicht von jemandem beauftragt, sondern: einer, dem die Sache gemäß ist. Man darf ruhig „ein Mensch, der es verstanden hat“ mitlesen.",
+    "chapters": [
+      2,
+      7,
+      22,
+      66,
+      77
+    ]
+  },
+  {
+    "slug": "himmel",
+    "term": "Himmel",
+    "forms": [
+      "Himmel",
+      "Himmels"
+    ],
+    "chinese": "天",
+    "pinyin": "tiān",
+    "usual": "Himmel, Natur, Ordnung",
+    "text": "Kein Gott und kein Jenseits. Das Zeichen bezeichnet die Ordnung der Natur — das, was ohne Absicht regelmäßig geschieht: Wetter, Jahreszeiten, Werden und Vergehen. „Des Himmels Sinn“ in den Kapiteln 73, 77 und 81 meint die Art, wie die Dinge von selbst verfahren, im Gegensatz zu dem, was Menschen einrichten.",
+    "chapters": [
+      5,
+      7,
+      25,
+      73,
+      77
+    ]
+  },
+  {
+    "slug": "nicht-handeln",
+    "term": "Nicht-Handeln",
+    "forms": [
+      "Nicht-Handeln",
+      "Nicht-Handelns",
+      "Nichthandeln",
+      "Nichthandelns",
+      "Nichtmachen",
+      "Nichtmachens",
+      "Nichtsmachen",
+      "Nichtsmachens"
+    ],
+    "chinese": "無為",
+    "pinyin": "wúwéi",
+    "usual": "Wu Wei, Nicht-Tun",
+    "text": "Das bekannteste Wort des Buches und das am häufigsten missverstandene. Nicht Untätigkeit, sondern Handeln ohne Erzwingen — der Sache gemäß statt gegen sie. Wilhelm schreibt dafür auch „Nichtmachen“ und, in Kapitel 2, „Wirken ohne Handeln“.",
+    "chapters": [
+      3,
+      43,
+      48,
+      63
+    ]
+  },
+  {
+    "slug": "einfalt",
+    "term": "Einfalt",
+    "forms": [
+      "Einfalt",
+      "Einfachheit"
+    ],
+    "chinese": "樸",
+    "pinyin": "pǔ",
+    "usual": "der unbehauene Block, Ursprünglichkeit",
+    "text": "Kein Mangel an Verstand. Das Zeichen meint unbehauenes Holz — den Block, bevor der Schnitzer etwas daraus macht. Was daraus wird, ist mehr benannt und weniger möglich. „Namenlose Einfalt“ in den Kapiteln 32 und 37 bezeichnet diesen Zustand vor der Bearbeitung.",
+    "chapters": [
+      19,
+      28,
+      32,
+      37
+    ]
+  },
+  {
+    "slug": "stille",
+    "term": "Stille",
+    "forms": [
+      "Stille",
+      "still"
+    ],
+    "chinese": "靜",
+    "pinyin": "jìng",
+    "usual": "Ruhe, Stille",
+    "text": "Nicht die Abwesenheit von Geräusch, sondern von Aufgeregtheit — Ruhe als Zustand, aus dem heraus man sieht. Kapitel 16 stellt sie neben die Leere und nennt sie die Rückkehr zur Wurzel; Kapitel 45 sagt, Stille überwinde die Hitze.",
+    "chapters": [
+      15,
+      16,
+      26,
+      45,
+      57
+    ]
+  },
+  {
+    "slug": "tal",
+    "term": "Tal",
+    "forms": [
+      "Tal",
+      "Tals",
+      "Tale",
+      "Tales"
+    ],
+    "chinese": "谷",
+    "pinyin": "gǔ",
+    "usual": "Tal, Schlucht",
+    "text": "Ein Lobwort, kein Bild der Niedrigkeit. Das Tal ist leer, nimmt auf und liegt unten — und gerade darum sammelt sich alles Wasser dort. Kapitel 6 nennt den „Geist des Tals“, Kapitel 41 sagt, das höchste Leben erscheine als Tal.",
+    "chapters": [
+      6,
+      15,
+      39,
+      41
+    ]
+  },
+  {
+    "slug": "mutter",
+    "term": "Mutter",
+    "forms": [
+      "Mutter"
+    ],
+    "chinese": "母",
+    "pinyin": "mǔ",
+    "usual": "Mutter, Ursprung",
+    "text": "Nicht die Mutter eines Menschen, sondern der Ursprung, aus dem etwas hervorgeht und zu dem es zurückkehrt. Kapitel 52 baut den ganzen Gedanken darauf: die Mutter finden, um ihre Söhne zu kennen, und sich wieder zur Mutter wenden.",
+    "chapters": [
+      1,
+      25,
+      52
+    ]
+  },
+  {
+    "slug": "guete",
+    "term": "Güte",
+    "forms": [
+      "Güte"
+    ],
+    "chinese": "善",
+    "pinyin": "shàn",
+    "usual": "gut, tüchtig, angemessen",
+    "text": "In Kapitel 8 — „Höchste Güte ist wie das Wasser“ — steht kein moralisches Wort. Das Zeichen bedeutet ebenso „gut sein in etwas“: tüchtig, der Sache angemessen. Die Stelle ist deshalb kein Aufruf zur Freundlichkeit, sondern eine Aussage über Wirksamkeit. Wasser ist gut, wie ein Handwerker gut ist.",
+    "chapters": [
+      8,
+      49
+    ]
+  }
+]

@@ -1,49 +1,156 @@
+/* ---------------------------------------------------------------------------
+   Design tokens.
+   Light is the baseline; dark is declared twice so that both the system
+   setting and the manual toggle take effect.
+   --------------------------------------------------------------------------- */
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Colors — warm paper, muted ink */
+  --paper: #f7f4ee;
+  --paper-raised: #fffdf8;
+  --ink: #2a2725;
+  --ink-muted: #6b645c;
+  --ink-faint: #9a9289;
+  --rule: #e0d9cd;
+  --accent: #7a6a52;
+  --accent-soft: #efe8da;
+
+  /* Typography */
+  --font-ui: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", sans-serif;
+  --font-verse: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia,
+    "Times New Roman", serif;
+
+  --size-xs: 0.8125rem;
+  --size-s: 0.9375rem;
+  --size-m: 1.0625rem;
+  --size-l: 1.375rem;
+  --size-xl: 1.875rem;
+  --size-xxl: 2.5rem;
+
+  /* Spacing */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4.5rem;
+
+  /* Measures */
+  --measure: 34rem;
+  --page-width: 52rem;
+  --radius: 10px;
+
+  color-scheme: light;
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  :root:not([data-theme="light"]) {
+    --paper: #161614;
+    --paper-raised: #1f1d1a;
+    --ink: #e8e2d8;
+    --ink-muted: #a49c90;
+    --ink-faint: #746c62;
+    --rule: #302c27;
+    --accent: #c3ab85;
+    --accent-soft: #2a2621;
+
+    color-scheme: dark;
   }
 }
 
-html {
-  height: 100%;
+:root[data-theme="dark"] {
+  --paper: #161614;
+  --paper-raised: #1f1d1a;
+  --ink: #e8e2d8;
+  --ink-muted: #a49c90;
+  --ink-faint: #746c62;
+  --rule: #302c27;
+  --accent: #c3ab85;
+  --accent-soft: #2a2621;
+
+  color-scheme: dark;
 }
 
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
-}
+/* ---------------------------------------------------------------------------
+   Base
+   --------------------------------------------------------------------------- */
 
-body {
-  min-height: 100%;
-  display: flex;
-  flex-direction: column;
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-* {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
-  padding: 0;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  /* Auch hier, nicht nur am body: mit viewport-fit: cover reicht die Seite
+     unter die Systemleisten, und dort darf nichts Helles durchscheinen. */
+  background: var(--paper);
+}
+
+body {
   margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-ui);
+  font-size: var(--size-m);
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  margin: 0;
+  text-wrap: balance;
+}
+
+p {
+  margin: 0 0 var(--space-4);
+  text-wrap: pretty;
 }
 
 a {
   color: inherit;
-  text-decoration: none;
+  text-decoration-color: var(--ink-faint);
+  text-underline-offset: 0.2em;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
+a:hover {
+  text-decoration-color: currentColor;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 3px;
+}
+
+img,
+svg {
+  max-width: 100%;
+  height: auto;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: var(--space-6) 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
   }
 }
